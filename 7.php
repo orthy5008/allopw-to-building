@@ -1,5 +1,5 @@
 <?php
-$check = "dd";
+$check = "Enter Yes/ NO";
 switch ($check){
      case 'yes':
          case 'YES':
